@@ -1,0 +1,14 @@
+.input{
+    width: 20%;
+   padding-top: 5%;
+   padding-bottom: 3%;
+  margin: 0 auto;
+  background-color: lightsteelblue;
+    border-radius: 10px 10px;
+}
+
+h1{
+     color: grey;
+    text-align: center;
+    margin-top: 10px;
+}

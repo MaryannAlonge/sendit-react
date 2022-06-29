@@ -1,0 +1,17 @@
+.form{
+     width: 30%;
+   padding-top: 8%;
+   padding-bottom: 4%;
+  margin: 0 auto;
+}
+
+.login{
+   color: grey;
+    text-align: center;
+    margin-top: 10px;
+}
+.submit{
+    margin-top: 10px;
+    
+}
+

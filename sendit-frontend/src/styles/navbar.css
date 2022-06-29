@@ -1,0 +1,22 @@
+nav{
+    position: sticky;
+    top: 0;
+    width: 100vw;
+    background: black;
+    
+}
+
+.links{
+    display: flex;
+    list-style: none;
+    /* flex-direction: column; */
+    height: auto;
+    justify-content: space-between;
+    margin-top: 20px;
+    /* align-items: ; */
+}
+.links > li{
+    margin-right: 30px;
+    text-decoration: none;
+}
+
